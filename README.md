@@ -1,2 +1,5 @@
 # Cardiovascular-Disease-Detection
-![Project Name](https://user-images.githubusercontent.com/68476475/114929609-a7d18d80-9e51-11eb-9d07-cbfb776cbf6a.gif)
+![3d-medical-animation-congestive-heart-failure-7hctpc0n-6vir-utwtgkzb-2hx7_g2QpogN1_3Zbe (1) (2) (1) (1) (1)](https://user-images.githubusercontent.com/68476475/114935762-35fd4200-9e59-11eb-8f17-45506855fe11.gif)
+
+
+
